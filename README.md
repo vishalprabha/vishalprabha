@@ -1,6 +1,4 @@
-<img src="content/intro.gif" width="750px">
-<br />
-<br />
+<img src="content/intro.gif" width="950px"><br />
 
 ## 📫 Reach me on: 
 
