@@ -5,3 +5,7 @@
 [![Linkedin](content/linkedin.png) LinkedIn](https://www.linkedin.com/in/vishalprabha/)  | 
 [![Email](content/gmail.png) Email](mailto:vipr9705@colorado.edu) | 
 [![Web](content/web.png) Web](https://www.vishalprabha.com)
+
+<br />
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vishalprabha)
